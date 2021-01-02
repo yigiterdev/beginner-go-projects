@@ -8,3 +8,4 @@
 2. [word-finder](word-finder)
 3. [crunch-the-primes](crunch-the-primes)
 4. [path-searcher](path-searcher)
+5. [retro-led-clock](retro-led-clock)
