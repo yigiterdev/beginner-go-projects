@@ -9,3 +9,5 @@
 3. [crunch-the-primes](crunch-the-primes)
 4. [path-searcher](path-searcher)
 5. [retro-led-clock](retro-led-clock)
+6. [empty-file-finder](file-finder)
+7. [bouncing-ball](bouncing-ball)
